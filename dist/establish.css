@@ -183,6 +183,14 @@ a {
 	color:#569bc9;
 }
 
+ul {
+  list-style: circle inside;
+}
+
+ol {
+  list-style: decimal inside;
+}
+
 h1, h2, h3, h4, h5, h6{
 	color:#6B6B6B;
 	font-weight:bold;

@@ -1,0 +1,7 @@
+ul {
+  list-style: circle inside;
+}
+
+ol {
+  list-style: decimal inside;
+}
