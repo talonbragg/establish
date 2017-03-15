@@ -1,0 +1,42 @@
+.btn-blue {
+  padding:15px;
+  background-color:#3b64e2;
+  color:#f5f5f5;
+  border-radius:2px;
+}
+.btn-red {
+  padding:15px;
+  background-color:#3d1a1a;
+  color:#f5f5f5;
+  border-radius:2px;
+}
+.btn-green {
+  padding:15px;
+  background-color:#36e23c;
+  color:#f5f5f5;
+  border-radius:2px;
+}
+.btn-orange {
+  padding:15px;
+  background-color:#e86909;
+  color:#f5f5f5;
+  border-radius:2px;
+}
+.btn-yellow {
+  padding:15px;
+  background-color:#ebef07;
+  color:#f5f5f5;
+  border-radius:2px;
+}
+.btn-indigo {
+  padding:15px;
+  background-color:#c339f9;
+  color:#f5f5f5;
+  border-radius:2px;
+}
+.btn-violet {
+  padding:15px;
+  background-color:violet;
+  color:#f5f5f5;
+  border-radius:2px;
+}
