@@ -1,0 +1,36 @@
+{
+  "name": "establish",
+  "version": "0.0.0",
+  "description": "A minimal css framework",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^1.8.8"
+  },
+  "devDependencies": {
+	"gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^1.8.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talonbragg/establish.git"
+  },
+  "keywords": [
+    "establish",
+    "css",
+    "framework"
+  ],
+  "author": "Talon Bragg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talonbragg/establish/issues"
+  },
+  "homepage": "https://github.com/talonbragg/establish#readme"
+}
